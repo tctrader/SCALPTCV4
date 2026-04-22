@@ -1,0 +1,10 @@
+{
+  "name": "momentum-sniper-bot",
+  "version": "4.0.0",
+  "description": "Momentum sniper v4 — rebuilt loss control, TX acceleration, circuit breakers",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": { "node-fetch": "^3.3.2" },
+  "engines": { "node": ">=18.0.0" }
+}
